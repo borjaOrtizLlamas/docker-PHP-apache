@@ -3,4 +3,3 @@ This reposory includes 2 DockerFile, divided in  the directories of "apache" and
 The directory "apache" include a DockerFile will install a container with apache .
 
 The second directory have a DockerFile will install a PHP, this container is from the frist container.  
-
